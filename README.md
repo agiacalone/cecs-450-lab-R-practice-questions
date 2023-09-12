@@ -6,8 +6,6 @@ Answer the following questions using the R programming language. Assume that all
 
 1. Write R code to create a vector of numbers from 1 to 20 and then extract all even numbers from it.
 
-Answer for this question
-
 2. Using the `dplyr` package, load a CSV file named "data.csv," and create a new data frame that contains only rows where the "Age" column is greater than 25.
 
 3. Write R code to calculate the factorial of a given positive integer `n`.
