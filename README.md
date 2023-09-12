@@ -10,11 +10,7 @@ Answer for this question
 
 2. Using the `dplyr` package, load a CSV file named "data.csv," and create a new data frame that contains only rows where the "Age" column is greater than 25.
 
-Answer second question
-
 3. Write R code to calculate the factorial of a given positive integer `n`.
-
-Answer third question
 
 4. Create a bar chart using the `ggplot2` package to visualize the counts of unique values in a categorical variable from a data frame.
 
